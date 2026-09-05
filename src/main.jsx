@@ -1,6 +1,6 @@
 import React from "react";
 import { createRoot } from "react-dom/client";
-import IshaFurnitureShop from "../../IshaFurnitureShop (1).jsx";
+import IshaFurnitureShop from "./IshaFurnitureShop.jsx";
 
 createRoot(document.getElementById("root")).render(
   <React.StrictMode>
